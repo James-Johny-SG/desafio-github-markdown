@@ -12,7 +12,7 @@ Desafio proposto pela expert __Aline Antunes__
    - [x] Github.dev utilizado para editar diretamente no Github.
    - [x] Repositório público.
 3. __Colaboração:__
-   - [x] Colaborador James-Johny-SG adicionado.
+   - [x] Colaborador adicionado.
    - [x] Clone na maquina local realizado.
    - [x] Alterações, Commits, Issues e Pull Requests realizados.
 4. __Formatação com Markdown:__
